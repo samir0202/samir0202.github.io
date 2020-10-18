@@ -1,2 +1,2 @@
 # samir0202.github.io
-A portfolio is a collection of financial investments like stocks, bonds, commodities, cash, and cash equivalents, including closed-end funds and exchange-traded funds (ETFs). People generally believe that stocks, bonds, and cash comprise the core of a portfolio
+Portfolios are collections of student work representing a selection of performance. ... A portfolio may be a folder containing a student's best pieces and the student's evaluation of the strengths and weaknesses of the pieces.
